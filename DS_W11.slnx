@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="DS_W11/DS_W11.vcxproj" Id="c90cc85b-b6c6-465c-aaa7-e871c9154967" />
+  <Project Path="sol-DS24_W11_P1_F/sol-DS24_W11_P1_F.vcxproj" Id="315edd0e-35b6-4b7a-b98c-44da65e2fb83" />
   <Project Path="sol-DS25_W11_P1_F/sol-DS25_W11_P1_F.vcxproj" Id="836ed3d5-71b5-4fb1-abc8-547304dc1f81" />
   <Project Path="sol-DS25_W11_P2_F/sol-DS25_W11_P2_F.vcxproj" Id="3f0c185b-6320-4b7d-96c9-0c7052c4c571" />
 </Solution>
