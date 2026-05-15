@@ -4,8 +4,12 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="DS_W11/DS_W11.vcxproj" Id="c90cc85b-b6c6-465c-aaa7-e871c9154967" />
-  <Project Path="sol-DS24_W11_P2_F/sol-DS24_W11_P2_F.vcxproj" Id="587d9c60-8f0c-49a9-a4fc-a86cac1211b3" />
+  <Project Path="sol-DS22_W11_P1_H/sol-DS22_W11_P1_H.vcxproj" Id="09e65d06-e43e-4cdd-ab08-bc003e5a6d24" />
+  <Project Path="sol-DS23_W11_P1_F/sol-DS23_W11_P1_F.vcxproj" Id="94f9e769-7726-463b-bc60-3c4c0e782df0" />
+  <Project Path="sol-DS23_W11_P1_S/sol-DS23_W11_P1_S.vcxproj" Id="1cd954ed-2f81-4299-a874-aeefbd8a7631" />
+  <Project Path="sol-DS23_W11_P2_F/sol-DS23_W11_P2_F.vcxproj" Id="5df3c7f9-eac7-4f72-8773-abec9cd6677f" />
   <Project Path="sol-DS24_W11_P1_F/sol-DS24_W11_P1_F.vcxproj" Id="315edd0e-35b6-4b7a-b98c-44da65e2fb83" />
+  <Project Path="sol-DS24_W11_P2_F/sol-DS24_W11_P2_F.vcxproj" Id="587d9c60-8f0c-49a9-a4fc-a86cac1211b3" />
   <Project Path="sol-DS25_W11_P1_F/sol-DS25_W11_P1_F.vcxproj" Id="836ed3d5-71b5-4fb1-abc8-547304dc1f81" />
   <Project Path="sol-DS25_W11_P2_F/sol-DS25_W11_P2_F.vcxproj" Id="3f0c185b-6320-4b7d-96c9-0c7052c4c571" />
 </Solution>
